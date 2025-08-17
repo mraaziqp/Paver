@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "firebase-admin": "^13.4.0",
+    "firebase-functions": "^6.4.0",
+    "openai": "^5.12.2",
+    "react-scripts": "^0.0.0"
+  }
+}
